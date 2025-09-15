@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "Prod",
+  "variableOverrides": [
+    {
+      "name": "lh_bronze_table",
+      "value": "Tables/dbo/t3_prod"
+    },
+    {
+      "name": "workspace_id",
+      "value": "e014c732-6edc-4c33-8d3e-9fb3bc256311"
+    },
+    {
+      "name": "lh_bronze_id",
+      "value": "a5dff57a-655d-4d7f-a641-289f5f1df49c"
+    }
+  ]
+}
